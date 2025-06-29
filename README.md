@@ -6,7 +6,7 @@ A simple, clean, and responsive To-Do List application built with **HTML**, **CS
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live project](https://karthiga436.github.io/todo-list/)
+👉 [Click here to view the live project](https://karthiga436.github.io/todolist/)
 
 ---
 
